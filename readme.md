@@ -20,9 +20,13 @@ ssl-tls: Flexible
 
 network: WebSockets:On
 ```
-### config adguardhome
+### init adguardhome
 ```
 http://youIpHere:3000/
+```
+### config adguardhome
+```
+http://youIpHere:8080/
 ```
 
 ### v2ray client
